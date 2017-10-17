@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508147538 source:/home/mohamed-galal/Desktop/Embedded/postfix/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
